@@ -12,6 +12,8 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Life cycle app</h1>
+      
       <KeyApiFunctional/>
     {/*   <KeyApi/> */}
      {/* <h1>Learn Lifecycle of React Comp</h1>
